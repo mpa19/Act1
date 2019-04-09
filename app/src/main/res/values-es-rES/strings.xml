@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Act1</string>
+    <string name="buttonToast">BOTON</string>
+    <string name="TextView1">Hola mundo!</string>
+    <string name="textToast">HOLA!</string>
+</resources>
